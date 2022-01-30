@@ -1,0 +1,162 @@
+
+App Thinning Size Report for All Variants of Fit4yoursport
+
+Variant: Fit4yoursport-087D9D3F-24B3-4E30-8B7B-87AB504F90D0.ipa
+Supported variant descriptors: [device: iPad7,6, os-version: 13.0], [device: iPad11,6, os-version: 14.0], [device: iPad5,2, os-version: 14.0], [device: iPad6,11, os-version: 13.0], [device: iPad5,1, os-version: 14.0], [device: iPad5,4, os-version: 14.0], [device: iPad6,8, os-version: 14.0], [device: iPad6,11, os-version: 14.0], [device: iPad7,11, os-version: 14.0], [device: iPad6,7, os-version: 13.0], [device: iPad7,12, os-version: 13.0], [device: iPad6,12, os-version: 13.0], [device: iPad6,12, os-version: 14.0], [device: iPad5,3, os-version: 14.0], [device: iPad5,4, os-version: 13.0], [device: iPad6,7, os-version: 14.0], [device: iPad5,1, os-version: 13.0], [device: iPad11,7, os-version: 14.0], [device: iPad7,5, os-version: 13.0], [device: iPad5,2, os-version: 13.0], [device: iPad7,6, os-version: 14.0], [device: iPad7,11, os-version: 13.0], [device: iPad5,3, os-version: 13.0], [device: iPad7,5, os-version: 14.0], [device: iPad6,8, os-version: 13.0], and [device: iPad7,12, os-version: 14.0]
+App + On Demand Resources size: 16.1 MB compressed, 50.4 MB uncompressed
+App size: 16.1 MB compressed, 50.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fit4yoursport-1E341AF7-E2A2-4E7C-983E-9C3FB3013F8E.ipa
+Supported variant descriptors: [device: iPhone8,1, os-version: 12.2], [device: iPhone8,4, os-version: 12.2], [device: iPod9,1, os-version: 12.2], [device: iPhone7,2, os-version: 12.2], [device: iPod7,1, os-version: 12.0], [device: iPhone8,1, os-version: 12.0], [device: iPhone8,4, os-version: 12.0], [device: iPhone6,2, os-version: 12.0], [device: iPhone6,1, os-version: 12.0], [device: iPhone7,2, os-version: 12.0], [device: iPhone6,1, os-version: 12.2], [device: iPhone6,2, os-version: 12.2], and [device: iPod7,1, os-version: 12.2]
+App + On Demand Resources size: 16.1 MB compressed, 50.4 MB uncompressed
+App size: 16.1 MB compressed, 50.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fit4yoursport-21C3F50D-07A5-4CCA-8143-8BFD051993E2.ipa
+Supported variant descriptors: [device: iPhone10,3, os-version: 11.0], [device: iPhone9,2, os-version: 10.0], [device: iPhone10,2, os-version: 11.0], [device: iPhone9,4, os-version: 10.0], [device: iPhone10,6, os-version: 11.0], and [device: iPhone10,5, os-version: 11.0]
+App + On Demand Resources size: 16.1 MB compressed, 50.4 MB uncompressed
+App size: 16.1 MB compressed, 50.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fit4yoursport-2528EC66-2FE0-4FD8-8B41-96FA914414EC.ipa
+Supported variant descriptors: [device: iPhone12,1, os-version: 13.0], [device: iPhone12,1, os-version: 14.0], [device: iPhone11,8, os-version: 14.0], and [device: iPhone11,8, os-version: 13.0]
+App + On Demand Resources size: 16.1 MB compressed, 50.4 MB uncompressed
+App size: 16.1 MB compressed, 50.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fit4yoursport-2AA00B4D-1EEA-4365-88D4-21226F3C4B28.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 13.0] and [device: iPhone8,2, os-version: 14.0]
+App + On Demand Resources size: 16.1 MB compressed, 50.4 MB uncompressed
+App size: 16.1 MB compressed, 50.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fit4yoursport-46D5C2C9-96A0-4805-80D5-AE4F43979B4C.ipa
+Supported variant descriptors: [device: iPhone5,1, os-version: 10.0], [device: iPhone5,2, os-version: 10.0], [device: iPhone5,4, os-version: 10.0], and [device: iPhone5,3, os-version: 10.0]
+App + On Demand Resources size: 16.6 MB compressed, 45.1 MB uncompressed
+App size: 16.6 MB compressed, 45.1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fit4yoursport-493901AD-58F5-4C52-896F-E7B5A086B82D.ipa
+Supported variant descriptors: [device: iPad3,6, os-version: 10.0], [device: iPad3,5, os-version: 10.0], and [device: iPad3,4, os-version: 10.0]
+App + On Demand Resources size: 16.6 MB compressed, 45.1 MB uncompressed
+App size: 16.6 MB compressed, 45.1 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fit4yoursport-4B92A563-469A-45D1-B291-707E258F1FAC.ipa
+Supported variant descriptors: [device: iPhone10,5, os-version: 13.0], [device: iPhone11,6, os-version: 13.0], [device: iPhone9,4, os-version: 13.0], [device: iPhone12,3, os-version: 13.0], [device: iPhone10,3, os-version: 13.0], [device: iPhone10,2, os-version: 14.0], [device: iPhone11,2, os-version: 13.0], [device: iPhone9,2, os-version: 13.0], [device: iPhone12,5, os-version: 13.0], [device: iPhone13,1, os-version: 14.0], [device: iPhone11,4, os-version: 13.0], [device: iPhone12,3, os-version: 14.0], [device: iPhone13,3, os-version: 14.0], [device: iPhone10,2, os-version: 13.0], [device: iPhone10,3, os-version: 14.0], [device: iPhone12,5, os-version: 14.0], [device: iPhone13,2, os-version: 14.0], [device: iPhone11,4, os-version: 14.0], [device: iPhone13,4, os-version: 14.0], [device: iPhone11,2, os-version: 14.0], [device: iPhone11,6, os-version: 14.0], [device: iPhone10,6, os-version: 14.0], [device: iPhone10,6, os-version: 13.0], [device: iPhone9,4, os-version: 14.0], [device: iPhone9,2, os-version: 14.0], and [device: iPhone10,5, os-version: 14.0]
+App + On Demand Resources size: 16.1 MB compressed, 50.4 MB uncompressed
+App size: 16.1 MB compressed, 50.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fit4yoursport-4DB64FE8-B3C7-4F96-B5F9-7F9F39F23E4A.ipa
+Supported variant descriptors: [device: iPhone9,3, os-version: 10.0], [device: iPhone9,1, os-version: 10.0], [device: iPhone10,1, os-version: 11.0], and [device: iPhone10,4, os-version: 11.0]
+App + On Demand Resources size: 16.1 MB compressed, 50.4 MB uncompressed
+App size: 16.1 MB compressed, 50.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fit4yoursport-57191DDF-B8B5-44D0-8042-6D77D23A0C6A.ipa
+Supported variant descriptors: [device: iPhone11,2, os-version: 12.2], [device: iPhone10,6, os-version: 12.2], [device: iPhone11,4, os-version: 12.0], [device: iPhone9,4, os-version: 12.0], [device: iPhone10,2, os-version: 12.2], [device: iPhone11,2, os-version: 12.0], [device: iPhone10,2, os-version: 12.0], [device: iPhone9,2, os-version: 12.2], [device: iPhone9,2, os-version: 12.0], [device: iPhone10,5, os-version: 12.2], [device: iPhone11,6, os-version: 12.0], [device: iPhone9,4, os-version: 12.2], [device: iPhone10,3, os-version: 12.0], [device: iPhone10,3, os-version: 12.2], [device: iPhone11,4, os-version: 12.2], [device: iPhone10,5, os-version: 12.0], [device: iPhone11,6, os-version: 12.2], and [device: iPhone10,6, os-version: 12.0]
+App + On Demand Resources size: 16.1 MB compressed, 50.4 MB uncompressed
+App size: 16.1 MB compressed, 50.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fit4yoursport-6FCE8313-A09C-4C6E-9C7C-B518380BBB2A.ipa
+Supported variant descriptors: [device: iPad6,3, os-version: 10.0], [device: iPad7,3, os-version: 10.0], [device: iPad6,4, os-version: 10.0], [device: iPad7,4, os-version: 10.0], [device: iPad7,1, os-version: 10.0], and [device: iPad7,2, os-version: 10.0]
+App + On Demand Resources size: 16.1 MB compressed, 50.4 MB uncompressed
+App size: 16.1 MB compressed, 50.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fit4yoursport-70BE2D00-FA5B-4AD7-AE82-C5C02AD8A060.ipa
+Supported variant descriptors: [device: iPad4,6, os-version: 12.0], [device: iPad6,11, os-version: 12.2], [device: iPad4,2, os-version: 12.0], [device: iPad4,5, os-version: 12.0], [device: iPad4,7, os-version: 12.0], [device: iPad4,4, os-version: 12.2], [device: iPad6,8, os-version: 12.0], [device: iPad4,6, os-version: 12.2], [device: iPad4,5, os-version: 12.2], [device: iPad5,3, os-version: 12.2], [device: iPad7,5, os-version: 12.2], [device: iPad4,2, os-version: 12.2], [device: iPad4,8, os-version: 12.2], [device: iPad5,4, os-version: 12.0], [device: iPad4,9, os-version: 12.0], [device: iPad6,8, os-version: 12.2], [device: iPad4,1, os-version: 12.2], [device: iPad4,3, os-version: 12.2], [device: iPad4,3, os-version: 12.0], [device: iPad7,5, os-version: 12.0], [device: iPad4,8, os-version: 12.0], [device: iPad4,9, os-version: 12.2], [device: iPad6,12, os-version: 12.2], [device: iPad6,7, os-version: 12.0], [device: iPad7,6, os-version: 12.2], [device: iPad6,12, os-version: 12.0], [device: iPad4,4, os-version: 12.0], [device: iPad5,1, os-version: 12.0], [device: iPad5,3, os-version: 12.0], [device: iPad5,4, os-version: 12.2], [device: iPad6,7, os-version: 12.2], [device: iPad5,1, os-version: 12.2], [device: iPad4,7, os-version: 12.2], [device: iPad6,11, os-version: 12.0], [device: iPad4,1, os-version: 12.0], [device: iPad5,2, os-version: 12.0], [device: iPad5,2, os-version: 12.2], and [device: iPad7,6, os-version: 12.0]
+App + On Demand Resources size: 16.1 MB compressed, 50.4 MB uncompressed
+App size: 16.1 MB compressed, 50.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fit4yoursport-77C06CDF-A4D4-4E57-A546-9F2B48C03D7F.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 12.0], [device: iPhone7,1, os-version: 12.0], [device: iPhone7,1, os-version: 12.2], and [device: iPhone8,2, os-version: 12.2]
+App + On Demand Resources size: 16.1 MB compressed, 50.4 MB uncompressed
+App size: 16.1 MB compressed, 50.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fit4yoursport-81717912-E8DF-48BF-AF95-80CE87FE1534.ipa
+Supported variant descriptors: [device: iPhone11,8, os-version: 12.0] and [device: iPhone11,8, os-version: 12.2]
+App + On Demand Resources size: 16.1 MB compressed, 50.4 MB uncompressed
+App size: 16.1 MB compressed, 50.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fit4yoursport-92291A1A-D413-4C48-A766-EAF754636813.ipa
+Supported variant descriptors: [device: iPhone8,2, os-version: 10.0] and [device: iPhone7,1, os-version: 10.0]
+App + On Demand Resources size: 16.1 MB compressed, 50.4 MB uncompressed
+App size: 16.1 MB compressed, 50.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fit4yoursport-94F3AC73-8655-4B6F-A83D-380C6C3BB5A6.ipa
+Supported variant descriptors: [device: iPhone9,1, os-version: 12.2], [device: iPhone10,4, os-version: 12.0], [device: iPhone9,3, os-version: 12.0], [device: iPhone10,4, os-version: 12.2], [device: iPhone9,1, os-version: 12.0], [device: iPhone10,1, os-version: 12.0], [device: iPhone9,3, os-version: 12.2], and [device: iPhone10,1, os-version: 12.2]
+App + On Demand Resources size: 16.1 MB compressed, 50.4 MB uncompressed
+App size: 16.1 MB compressed, 50.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fit4yoursport-D17A6C09-FDAE-43A4-897E-847F2208BC9F.ipa
+Supported variant descriptors: [device: iPad4,6, os-version: 10.0], [device: iPad6,7, os-version: 10.0], [device: iPad5,4, os-version: 10.0], [device: iPad4,7, os-version: 10.0], [device: iPad5,1, os-version: 10.0], [device: iPad5,2, os-version: 10.0], [device: iPad5,3, os-version: 10.0], [device: iPad6,12, os-version: 10.0], [device: iPad6,8, os-version: 10.0], [device: iPad7,6, os-version: 11.0], [device: iPad4,2, os-version: 10.0], [device: iPad4,4, os-version: 10.0], [device: iPad4,5, os-version: 10.0], [device: iPad4,8, os-version: 10.0], [device: iPad7,5, os-version: 11.0], [device: iPad4,1, os-version: 10.0], [device: iPad6,11, os-version: 10.0], [device: iPad4,9, os-version: 10.0], and [device: iPad4,3, os-version: 10.0]
+App + On Demand Resources size: 16.1 MB compressed, 50.4 MB uncompressed
+App size: 16.1 MB compressed, 50.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fit4yoursport-D1A6B4C9-4A9C-4054-936A-5CF1D399E268.ipa
+Supported variant descriptors: [device: iPad7,3, os-version: 12.0], [device: iPad7,3, os-version: 12.2], [device: iPad11,1, os-version: 12.2], [device: iPad7,4, os-version: 12.2], [device: iPad8,2, os-version: 12.0], [device: iPad8,1, os-version: 12.2], [device: iPad7,2, os-version: 12.2], [device: iPad6,4, os-version: 12.2], [device: iPad11,2, os-version: 12.2], [device: iPad8,4, os-version: 12.2], [device: iPad8,5, os-version: 12.0], [device: iPad8,7, os-version: 12.2], [device: iPad7,1, os-version: 12.2], [device: iPad8,3, os-version: 12.0], [device: iPad8,6, os-version: 12.2], [device: iPad8,7, os-version: 12.0], [device: iPad8,5, os-version: 12.2], [device: iPad7,2, os-version: 12.0], [device: iPad8,3, os-version: 12.2], [device: iPad8,2, os-version: 12.2], [device: iPad11,4, os-version: 12.2], [device: iPad7,1, os-version: 12.0], [device: iPad11,3, os-version: 12.2], [device: iPad6,4, os-version: 12.0], [device: iPad8,4, os-version: 12.0], [device: iPad8,6, os-version: 12.0], [device: iPad8,8, os-version: 12.0], [device: iPad6,3, os-version: 12.2], [device: iPad8,1, os-version: 12.0], [device: iPad7,4, os-version: 12.0], [device: iPad6,3, os-version: 12.0], and [device: iPad8,8, os-version: 12.2]
+App + On Demand Resources size: 16.1 MB compressed, 50.4 MB uncompressed
+App size: 16.1 MB compressed, 50.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fit4yoursport-DBC7EB9E-E009-49E3-803C-FA392332380D.ipa
+Supported variant descriptors: [device: iPod7,1, os-version: 10.0], [device: iPhone7,2, os-version: 10.0], [device: iPhone6,2, os-version: 10.0], [device: iPhone8,4, os-version: 10.0], [device: iPhone8,1, os-version: 10.0], and [device: iPhone6,1, os-version: 10.0]
+App + On Demand Resources size: 16.1 MB compressed, 50.4 MB uncompressed
+App size: 16.1 MB compressed, 50.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fit4yoursport-EBE2098D-90D2-4B60-AD88-3A038AC788A8.ipa
+Supported variant descriptors: [device: iPhone8,1, os-version: 14.0], [device: iPhone8,1, os-version: 13.0], [device: iPod9,1, os-version: 13.0], [device: iPhone8,4, os-version: 14.0], [device: iPhone8,4, os-version: 13.0], and [device: iPod9,1, os-version: 14.0]
+App + On Demand Resources size: 16.1 MB compressed, 50.4 MB uncompressed
+App size: 16.1 MB compressed, 50.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fit4yoursport-F0B20EC2-F52C-4E80-A6F4-C2DB3B481B98.ipa
+Supported variant descriptors: [device: iPad8,5, os-version: 14.0], [device: iPad8,4, os-version: 13.0], [device: iPad8,1, os-version: 14.0], [device: iPad11,4, os-version: 14.0], [device: iPad8,9, os-version: 14.0], [device: iPad8,11, os-version: 14.0], [device: iPad8,1, os-version: 13.0], [device: iPad13,2, os-version: 14.0], [device: iPad7,2, os-version: 14.0], [device: iPad8,12, os-version: 14.0], [device: iPad11,1, os-version: 14.0], [device: iPad8,11, os-version: 13.0], [device: iPad8,5, os-version: 13.0], [device: iPad8,12, os-version: 13.0], [device: iPad8,3, os-version: 14.0], [device: iPad11,4, os-version: 13.0], [device: iPad7,3, os-version: 13.0], [device: iPad11,3, os-version: 13.0], [device: iPad8,3, os-version: 13.0], [device: iPad7,2, os-version: 13.0], [device: iPad7,3, os-version: 14.0], [device: iPad8,7, os-version: 13.0], [device: iPad11,3, os-version: 14.0], [device: iPad6,4, os-version: 13.0], [device: iPad8,10, os-version: 14.0], [device: iPad8,6, os-version: 13.0], [device: iPad11,2, os-version: 13.0], [device: iPad7,1, os-version: 13.0], [device: iPad8,2, os-version: 13.0], [device: iPad8,2, os-version: 14.0], [device: iPad8,4, os-version: 14.0], [device: iPad6,3, os-version: 13.0], [device: iPad8,10, os-version: 13.0], [device: iPad7,4, os-version: 14.0], [device: iPad8,8, os-version: 13.0], [device: iPad7,4, os-version: 13.0], [device: iPad13,1, os-version: 14.0], [device: iPad7,1, os-version: 14.0], [device: iPad8,7, os-version: 14.0], [device: iPad8,6, os-version: 14.0], [device: iPad6,3, os-version: 14.0], [device: iPad6,4, os-version: 14.0], [device: iPad11,1, os-version: 13.0], [device: iPad11,2, os-version: 14.0], [device: iPad8,8, os-version: 14.0], and [device: iPad8,9, os-version: 13.0]
+App + On Demand Resources size: 16.1 MB compressed, 50.4 MB uncompressed
+App size: 16.1 MB compressed, 50.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fit4yoursport-F0B3BA58-B620-4C44-8141-FE7F2BA0DD8C.ipa
+Supported variant descriptors: [device: iPhone9,3, os-version: 13.0], [device: iPhone10,1, os-version: 13.0], [device: iPhone9,1, os-version: 14.0], [device: iPhone10,4, os-version: 14.0], [device: iPhone12,8, os-version: 14.0], [device: iPhone10,4, os-version: 13.0], [device: iPhone9,3, os-version: 14.0], [device: iPhone9,1, os-version: 13.0], [device: iPhone12,8, os-version: 13.0], and [device: iPhone10,1, os-version: 14.0]
+App + On Demand Resources size: 16.1 MB compressed, 50.4 MB uncompressed
+App size: 16.1 MB compressed, 50.4 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed
+
+
+Variant: Fit4yoursport.ipa
+Supported variant descriptors: Universal
+App + On Demand Resources size: 27.8 MB compressed, 82.8 MB uncompressed
+App size: 27.8 MB compressed, 82.8 MB uncompressed
+On Demand Resources size: Zero KB compressed, Zero KB uncompressed

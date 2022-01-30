@@ -1,0 +1,98 @@
+login-------------------
+
+
+
+
+
+Sign In----------------
+font:Montserrat, Semibold
+font-size:63px
+color:#ffffff
+
+
+
+
+
+johndoe@dummy.com---------------
+font:Montserrat, Regular
+font-size:39px
+color:#ffffff
+
+
+
+
+
+* * * * * * * *-------------
+font:Montserrat, Regular
+font-size:43px
+color:#ffffff
+
+
+
+
+Forgot Password?----------
+font:Montserrat, Regular
+font-size:34px
+color:#ffffff
+
+
+
+
+
+Login----------
+font:Montserrat, Semibold
+font-size:43px
+color:#f53a91
+
+
+
+
+
+Button------------
+Width:1023px
+height:131px
+color:#b70148
+Stroke:ffffff
+size:1px
+redius:66px
+
+
+
+
+
+
+
+Login with Facebook----------------
+font:Montserrat, Semibold
+font-size:41px
+color:#ffffff
+
+
+
+
+
+Button----
+Width:1025px
+height:132px
+color:#ffffff
+redius:66px
+
+
+
+
+
+Register Now------------
+font:Montserrat, Medium
+font-size:48px
+color:#ffffff
+
+
+
+
+New User?------------
+font:Montserrat, Regular
+font-size:41px
+color:#cccccc
+
+
+

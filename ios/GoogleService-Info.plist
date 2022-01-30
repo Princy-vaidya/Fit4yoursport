@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>353173931953-47f3ppoo93fjj5t18df2r46h1anp89qi.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.353173931953-47f3ppoo93fjj5t18df2r46h1anp89qi</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>353173931953-ef6hdg36udkgrtlrqqgr35rkbc1om6dp.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyApwy7RUqTb3Tz5np-zF5RbxDZWrMOWHzs</string>
+	<key>GCM_SENDER_ID</key>
+	<string>353173931953</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.reactjs.native.example.Fit4yoursport</string>
+	<key>PROJECT_ID</key>
+	<string>fit4yoursport-2bbe3</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fit4yoursport-2bbe3.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:353173931953:ios:905c8a8db87f42730c1f90</string>
+</dict>
+</plist>

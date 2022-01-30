@@ -1,0 +1,21 @@
+rootProject.name = 'Fit4yoursport'
+include ':@t2tx_react-native-universal-pedometer'
+project(':@t2tx_react-native-universal-pedometer').projectDir = new File(rootProject.projectDir, '../node_modules/@t2tx/react-native-universal-pedometer/android')
+include ':react-native-walk-counter'
+project(':react-native-walk-counter').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-walk-counter/android')
+include ':tipsi-stripe'
+project(':tipsi-stripe').projectDir = new File(rootProject.projectDir, '../node_modules/tipsi-stripe/android')
+// include ':react-native-walk-counter'
+// project(':react-native-walk-counter').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-walk-counter/android')
+// include ':react-native-jitsi-meet'
+// project(':react-native-jitsi-meet').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-jitsi-meet/android')
+include ':@t2tx_react-native-universal-pedometer'
+project(':@t2tx_react-native-universal-pedometer').projectDir = new File(rootProject.projectDir, '../node_modules/@t2tx/react-native-universal-pedometer/android')
+include ':react-native-pedometer-ios-android'
+project(':react-native-pedometer-ios-android').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-pedometer-ios-android/android')
+include ':react-native-youtube'
+project(':react-native-youtube').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-youtube/android')
+include ':react-native-vector-icons'
+project(':react-native-vector-icons').projectDir = new File(rootProject.projectDir, '../node_modules/react-native-vector-icons/android')
+apply from: file("../node_modules/@react-native-community/cli-platform-android/native_modules.gradle"); applyNativeModulesSettingsGradle(settings)
+include ':app'

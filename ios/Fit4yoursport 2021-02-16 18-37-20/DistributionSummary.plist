@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Fit4yoursport.ipa</key>
+	<array>
+		<dict>
+			<key>architectures</key>
+			<array>
+				<string>arm64</string>
+			</array>
+			<key>certificate</key>
+			<dict>
+				<key>SHA1</key>
+				<string>A0590DE7C64A228B848BA6183DC728A868FCEFE0</string>
+				<key>dateExpires</key>
+				<string>04/02/22</string>
+				<key>type</key>
+				<string>Apple Development</string>
+			</dict>
+			<key>embeddedBinaries</key>
+			<array>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>A0590DE7C64A228B848BA6183DC728A868FCEFE0</string>
+						<key>dateExpires</key>
+						<string>04/02/22</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>JitsiMeet.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>33GCVVRC5N</string>
+						<key>name</key>
+						<string>Claus Jensen</string>
+					</dict>
+				</dict>
+				<dict>
+					<key>architectures</key>
+					<array>
+						<string>arm64</string>
+					</array>
+					<key>certificate</key>
+					<dict>
+						<key>SHA1</key>
+						<string>A0590DE7C64A228B848BA6183DC728A868FCEFE0</string>
+						<key>dateExpires</key>
+						<string>04/02/22</string>
+						<key>type</key>
+						<string>Apple Development</string>
+					</dict>
+					<key>name</key>
+					<string>WebRTC.framework</string>
+					<key>team</key>
+					<dict>
+						<key>id</key>
+						<string>33GCVVRC5N</string>
+						<key>name</key>
+						<string>Claus Jensen</string>
+					</dict>
+				</dict>
+			</array>
+			<key>entitlements</key>
+			<dict>
+				<key>application-identifier</key>
+				<string>33GCVVRC5N.org.reactjs.native.example.Fit4yoursport</string>
+				<key>aps-environment</key>
+				<string>development</string>
+				<key>com.apple.developer.team-identifier</key>
+				<string>33GCVVRC5N</string>
+				<key>get-task-allow</key>
+				<true/>
+			</dict>
+			<key>name</key>
+			<string>Fit4yoursport.app</string>
+			<key>profile</key>
+			<dict>
+				<key>UUID</key>
+				<string>2dede7ce-7ab6-47b2-b603-af89e026c8ab</string>
+				<key>name</key>
+				<string>iOS Team Provisioning Profile: org.reactjs.native.example.Fit4yoursport</string>
+			</dict>
+			<key>team</key>
+			<dict>
+				<key>id</key>
+				<string>33GCVVRC5N</string>
+				<key>name</key>
+				<string>Claus Jensen</string>
+			</dict>
+		</dict>
+	</array>
+</dict>
+</plist>

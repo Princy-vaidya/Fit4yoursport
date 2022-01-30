@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "353173931953",
+    "project_id": "fit4yoursport-2bbe3",
+    "storage_bucket": "fit4yoursport-2bbe3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:353173931953:android:d6a18ec23651d4130c1f90",
+        "android_client_info": {
+          "package_name": "com.fit4yourssport"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "353173931953-ef6hdg36udkgrtlrqqgr35rkbc1om6dp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.fit4yourssport",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "353173931953-k2tm6vpvuihl8d36d2t5av04mlt54j9d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCItWIvdLP5KlnV_ugH4WqZrvm7GkaURGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "353173931953-k2tm6vpvuihl8d36d2t5av04mlt54j9d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

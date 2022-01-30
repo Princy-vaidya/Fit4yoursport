@@ -1,0 +1,3 @@
+export const SAVE_TOKEN = 'SAVE_TOKEN';
+export const SAVE_PROFILE_PIC = 'SAVE_PROFILE_PIC';
+export const SAVE_NOTIFICATION = 'SAVE_NOTIFICATION';
